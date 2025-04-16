@@ -4,8 +4,7 @@ import java.util.Scanner;
 public class ContaTerminal {
 	
 	public static void main(String[] args) throws Exception {
-		System.out.println("Oi");
-		
+
 		int numero = 0;
 		String agencia = null;
 		String nmCliente = null;
